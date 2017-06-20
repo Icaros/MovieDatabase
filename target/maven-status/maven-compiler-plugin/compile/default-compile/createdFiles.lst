@@ -1,0 +1,10 @@
+wad/domain/Movie.class
+wad/controller/DefaultController.class
+wad/domain/Actor.class
+wad/repository/ActorRepository.class
+wad/controller/MovieController.class
+wad/controller/ActorController.class
+wad/service/MovieService.class
+wad/MovieDatabaseApplication.class
+wad/service/ActorService.class
+wad/repository/MovieRepository.class
